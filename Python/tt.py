@@ -10,3 +10,4 @@ t.write("NIKITA GEY",  False, align="center", font=('Arial', 60, 'normal'))
 t.write("NIKITA GEY",  True, align="right", font=('Arial', 50, 'normal'))
 turtle.exitonclick()
 #fsdfsdfsfsf
+#Ещё чуть-чуть поправлю
