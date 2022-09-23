@@ -1,4 +1,3 @@
-
 b, k, t = int(), int(), int()
 for b in range(0, 10):
     for k in range(0, 20):

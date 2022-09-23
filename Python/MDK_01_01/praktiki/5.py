@@ -1,4 +1,3 @@
-
 n = int(input())
 nn = n % 10
 n //= 10

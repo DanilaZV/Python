@@ -1,5 +1,4 @@
 n = int(input())
-
 mass1 = []
 mass2 = []
 c = []

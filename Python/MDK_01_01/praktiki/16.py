@@ -1,6 +1,4 @@
 from collections import Counter
-
-
 name = input()
 my_list =[]
 my_list.append(name)
